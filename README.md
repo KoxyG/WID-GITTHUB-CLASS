@@ -1,13 +1,1 @@
-# WID-GITTHUB-CLASS
-
-# Hello from women in defi community. 
-# Hi ladies
-# Hello from women in defi community.
-
-
-# Javascript
-
-
-# Javascript
-
-.env
+# Women IN DeFi WEB2 TRAINING WITH KOXY
